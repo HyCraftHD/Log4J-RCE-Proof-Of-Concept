@@ -12,6 +12,7 @@ This bug affects nearly all log4j2 and maybe log4j1 versions. The recommended ve
 ## Demonstration with minecraft (which uses log4j2)
 
 - Fixes for minecraft are listed here by slicedlime: https://twitter.com/slicedlime/status/1469150993527017483
+- Article from minecraft is here: https://www.minecraft.net/en-us/article/important-message--security-vulnerability-java-edition
 
 ### Lag or sending serialized data 
 

@@ -6,8 +6,9 @@ Here are some links for the CVE-2021-44228:
 - https://www.lunasec.io/docs/blog/log4j-zero-day
 - https://github.com/advisories/GHSA-jfh8-c2jp-5v3q
 - https://github.com/apache/logging-log4j2/pull/608
+- https://www.youtube.com/watch?v=JPGola6BamU
 
-This bug affects nearly all log4j2 and maybe log4j1 versions. The recommended version to use is 2.15.0 which fixes the exploit.
+This bug affects nearly all log4j2 and maybe log4j1 versions. The recommended version to use is **2.15.0** which fixes the exploit.
 
 ## Demonstration with minecraft (which uses log4j2)
 

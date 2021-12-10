@@ -3,7 +3,7 @@
 This is a proof of concept of the log4j rce.
 
 Here are some links for the CVE-2021-44228:
-- https://www.lunasec.io/docs/blog/log4j-zero-day/
+- https://www.lunasec.io/docs/blog/log4j-zero-day
 - https://github.com/advisories/GHSA-jfh8-c2jp-5v3q
 - https://github.com/apache/logging-log4j2/pull/608
 

@@ -8,7 +8,7 @@ Here are some links for the CVE-2021-44228:
 - https://github.com/apache/logging-log4j2/pull/608
 - https://www.youtube.com/watch?v=JPGola6BamU
 
-This bug affects nearly all log4j2 and maybe log4j1 versions. The recommended version to use is **2.15.0** which fixes the exploit.
+This bug affects nearly all log4j2 and maybe log4j1 versions. The recommended version to use is **[2.15.0](https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-core/2.15.0)** which fixes the exploit.
 
 ## Demonstration with minecraft (which uses log4j2)
 

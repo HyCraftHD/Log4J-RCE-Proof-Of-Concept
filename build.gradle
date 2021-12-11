@@ -13,6 +13,11 @@ dependencies {
     implementation 'com.unboundid:unboundid-ldapsdk:3.1.1'
 }
 
+task(runMain, dependsOn: 'classes', type: JavaExec) {
+   main = 'Exploit'
+   classpath = sourceSets.main.runtimeClasspath
+}
+
 test {
     useJUnitPlatform()
 }

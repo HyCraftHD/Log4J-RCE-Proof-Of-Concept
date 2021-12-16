@@ -39,5 +39,9 @@ This bug affects nearly all log4j2 and maybe log4j1 versions. The recommended ve
 - Fortunately modern jdks disable remote class loading by default. (https://www.oracle.com/java/technologies/javase/8u121-relnotes.html)
 - Old versions may still allow this!!
 
+## Disclaimer
+
+This project is only for educational purposes.
+
 
  
